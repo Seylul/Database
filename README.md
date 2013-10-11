@@ -1,8 +1,7 @@
-Bu projede bash scripting kullanarak bir veritabanı tasarlandı.  
-Projenin raporuna buradan ulaşılabilir.  
-
+A database designed using bash script in this project.
+It is reached that report of project.
 
 	http://goo.gl/Fuhpq  
 	
-[semihozkoroglu](https://github.com/semihozkoroglu) ile ortak gerçekleştirdiğimiz bir çalışmadır. 
+Also, [semihozkoroglu](https://github.com/semihozkoroglu) is contributed.
 
